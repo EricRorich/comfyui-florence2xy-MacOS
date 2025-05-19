@@ -1,1 +1,1 @@
-# comfyui-florence2xy
+# comfyui-florence2xy runs on MacBook M4 ComfyUI DesktopApp
